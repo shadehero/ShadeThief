@@ -1,0 +1,16 @@
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\ShadeThief.exe
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\ShadeThief.pdb
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\Colorful.Console.dll
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\obj\x86\Debug\ShadeThief.csprojResolveAssemblyReference.cache
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\obj\x86\Debug\ShadeThief.exe
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\obj\x86\Debug\ShadeThief.pdb
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\System.Xml.XPath.dll
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ShadeHero\Documents\Projects\ShadeThief\ShadeThief\bin\Debug\System.Xml.XPath.XmlDocument.dll
